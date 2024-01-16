@@ -1,3 +1,3 @@
-#DAG-WITH-POSTGRES-TO-S3-LOAD
+# DAG-WITH-POSTGRES-TO-S3-LOAD
 
-## Descriptin will be added soon
+## Description will be added soon
