@@ -1,1 +1,1 @@
-Please include this for volume directory.
+delete this file before launching containers
