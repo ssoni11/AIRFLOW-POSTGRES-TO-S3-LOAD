@@ -1,6 +1,6 @@
 #origin - s3-check-object-presence
 /dags/*
-!DAG-WITH-POSTGRES_TO_S3_LOAD.py
+!/dags/DAG-WITH-POSTGRES_TO_S3_LOAD.py
 /logs/*
 !/logs/.txt
 /data/*
